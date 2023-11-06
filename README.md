@@ -1,6 +1,12 @@
 # UN Datathon 2023
 
- #semanticClimat's code and material for UN Datathon 2023
+ #semanticClimate's code and material for UN Datathon 2023
+
+## Demos 
+
+  - [Climate Vulnerability assessment tracker for IPCC Reports](https://github.com/semanticClimate/un-datathon-2023/blob/main/climate_vulnerablity_assessement_tracker.ipynb)
+  - [Semantic Glossary for UN IPCC Readers](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/html/index.html)
+  - [PDF Reader for UN Diplomats](https://github.com/petermr/pyamihtml)
 
 ## Code
 
