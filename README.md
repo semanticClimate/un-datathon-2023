@@ -10,12 +10,11 @@
 
 ## Code
 
-  - Climate Vulnerability assessment tracker for IPCC Reports
-  - Semantic Glossary for UN IPCC Readers
-  - PDF Reader for UN Diplomats
+  - [Climate Vulnerability assessment tracker for IPCC Reports](https://github.com/semanticClimate/un-datathon-2023/)
+  - [Semantic Glossary for UN IPCC Readers](https://github.com/semanticClimate/glossary-demo)
+  - [PDF Reader for UN Diplomats](https://github.com/petermr/pyamihtml)
 
 ## Slidedeck
-
 
 ![Alt text](slides/semanticClimate-undatathon23.jpg "semanticClimate Un Datathon slide deck")
 [PDF](slides/semanticClimate-undatathon23.pdf) | [PPTX](slides/semanticClimate-undatathon23.pptx)
