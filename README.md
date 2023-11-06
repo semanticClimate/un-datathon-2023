@@ -21,7 +21,7 @@
 
 ## Video presentation
 
-YouTube
+[YouTube](https://www.youtube.com/watch?v=XjfvvA_yVXw) pitch video.
 
 ## License
 
