@@ -11,11 +11,12 @@
 ## Slidedeck
 
 
-![Alt text](slides\semanticClimate-undatathon23.jpg "semanticClimate Un Datathon slide deck")
-[PDF](slides\semanticClimate-undatathon23.pdf) | [PPTX](slides\semanticClimate-undatathon23.pptx)
+![Alt text](slides/semanticClimate-undatathon23.jpg "semanticClimate Un Datathon slide deck")
+[PDF](slides/semanticClimate-undatathon23.pdf) | [PPTX](slides/semanticClimate-undatathon23.pptx)
 
 ## Video presentation
 
+YouTube
 
 ## License
 
